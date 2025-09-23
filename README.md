@@ -30,7 +30,6 @@ For further details, please check:
 ├── 00-concepts.md              # Notes on core concepts and background
 ├── README.md                   # Project documentation
 ├── pyproject.toml              # Project dependencies and build configuration
-├── make_data.py                # Script to preprocess and generate datasets
 ├── timeflow_train.py           # Main training entrypoint
 ├── timeflow_infer.py           # Inference script (single model)
 ├── timeflow_infer_mixture.py   # Inference script (mixture of models)
