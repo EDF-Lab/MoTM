@@ -1,0 +1,18 @@
+use_target_for_training: False
+lambda_target: 0.0
+apply_mask_during_training: True
+
+loss_type: 'mse'
+
+lr_inr : 5e-4
+lr_code : 0.01
+inner_steps : 3
+test_inner_steps : 3
+
+patience: -1
+
+scheduler:
+  name: 'CosineWithRestart'
+  T_max: ${trainer.max_epochs}
+  eta_min: 1e-4
+  num_warmup_steps: 10

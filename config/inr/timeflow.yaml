@@ -1,0 +1,21 @@
+_target_: src.modules.inr.ModulatedFourierFeatures
+input_dim : 1
+output_dim : 1
+latent_dim : 128
+hn_width: 256
+hn_depth: 1
+width : 128
+depth : 5
+frequency_embedding: nerf
+num_frequencies : 64
+log_sampling: True
+min_frequencies: 0.
+max_frequencies: 10
+base_frequency: 2
+include_input: True
+modulate_scale: False
+modulate_shift: True
+scale: 5
+latent_mip_encode: False
+apply_znorm: True
+target_znorm: 

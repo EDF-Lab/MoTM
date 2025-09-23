@@ -1,0 +1,23 @@
+name: ETTh2
+freq: '1H'
+weight: 1.0
+
+importation:
+  dir: "data/ETTh2"
+  train_file: train_data_raw.pt
+  test_file: blocks_missing_1.pt
+  test_gt_file: ground_truth.pt
+
+train_test:
+  sample:
+    split: False
+    split_idx: 0
+    random_split: False
+    test_size:
+  time:
+    split: False
+
+batch_size: 32
+num_workers: 2
+
+seed: ${seed}

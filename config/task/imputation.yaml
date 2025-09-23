@@ -1,0 +1,11 @@
+name: Imputation
+window_len_in_days: 28
+
+number_of_missing_block: [0]
+missing_block_size: [0]
+pointwise_observed_ratio: [0.10, 0.20, 0.30, 0.40, 0.50, 0.60, 0.70, 0.80, 0.90]
+plot_imputation: True
+nb_plots: 5
+export_outputs: False
+max_points_to_plot: 670
+run_baselines: True

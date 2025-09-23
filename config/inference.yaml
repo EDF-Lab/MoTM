@@ -1,0 +1,12 @@
+defaults:
+  - _self_
+  - hydra: inference
+  - callbacks: default
+  - data: electricity
+  - task: 
+  - inr:
+
+
+model_path:
+
+seed: 42
