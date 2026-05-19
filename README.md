@@ -22,7 +22,7 @@ For further details, please check:
 - **MoTM Authors:** Etienne Le Naour*, Tahar Nabil*, Ghislain Agoua
 - **TimeFlow Authors:** Etienne Le Naour, Louis Serrano, Léon Migus, Yuan Yin, Ghislain Agoua, Nicolas Baskiotis, Patrick Gallinari, Vincent Guigue.  
 
-* equal contribution
+ (*equal contribution)
 ---
 
 ## 2. Project Structure  
