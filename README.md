@@ -19,7 +19,7 @@ For further details, please check:
 ### Authors  
 
 - **Code Contributors:** Etienne Le Naour*, Tahar Nabil* (*equal contribution)
-- **MoTM Authors:** Etienne Le Naour*, Tahar Nabil*, Ghislain Agoua
+- **MoTM Authors:** Etienne Le Naour*, Tahar Nabil*, Ghislain Agoua (*equal contribution)
 - **TimeFlow Authors:** Etienne Le Naour, Louis Serrano, Léon Migus, Yuan Yin, Ghislain Agoua, Nicolas Baskiotis, Patrick Gallinari, Vincent Guigue. (*equal contribution)
 
  
